@@ -1,0 +1,6 @@
+framework module BarajaFramework {
+  umbrella header "BarajaFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

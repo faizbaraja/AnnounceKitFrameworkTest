@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_AnnounceKitFrameworkTest_AnnounceKitFrameworkTestUITests : NSObject
+@end
+@implementation PodsDummy_Pods_AnnounceKitFrameworkTest_AnnounceKitFrameworkTestUITests
+@end

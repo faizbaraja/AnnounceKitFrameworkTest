@@ -1,0 +1,16 @@
+PODS:
+  - BarajaFramework (0.4)
+
+DEPENDENCIES:
+  - BarajaFramework
+
+SPEC REPOS:
+  trunk:
+    - BarajaFramework
+
+SPEC CHECKSUMS:
+  BarajaFramework: 83bd9a1462cc8618faf4437e649e58b69149fb4b
+
+PODFILE CHECKSUM: 88b32c8305db21de1872efb6b088a536d7b7c35e
+
+COCOAPODS: 1.9.1
